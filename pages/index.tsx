@@ -21,7 +21,7 @@ export default function Home({ allPostData }: InferGetServerSidePropsType<typeof
   return (
     <Layout>
       <Head>
-        <title>Create Next App</title>
+        <title>This One Must Be Deployed</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
